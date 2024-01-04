@@ -1,6 +1,5 @@
 body{
     height: 50rem;
-    font-family: Georgia, 'Times New Roman', Times, serif;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -39,6 +38,10 @@ width: 50%;
 }
 #coloured{
 color: rgb(61, 129, 104);
+  font-family: Fraunces;
+}
+.content h1{
+    font-family: Fraunces;
 }
 .btn{
     height: 2rem;
@@ -48,6 +51,7 @@ color: rgb(61, 129, 104);
     border: none;
     background-color: rgb(61, 129, 104);
     color: white;
+    font-family: Montserrat;
 }
 .pricing{
     display: flex;
@@ -56,6 +60,7 @@ color: rgb(61, 129, 104);
 #tophead{
     color: grey;
     letter-spacing: 3px;
+    font-family: Montserrat;
     
 }
 #name{
@@ -64,6 +69,8 @@ color: rgb(61, 129, 104);
 #mid{
     color: grey;
     padding-right: 3rem;
+    /* letter-spacing: 1px; */
+    font-family: Montserrat;
 }
 .pricing p{
     color: grey;
