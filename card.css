@@ -34,6 +34,7 @@ width: 50%;
     flex-direction: column;
     /* align-items: center; */
     justify-content: center;
+    box-sizing: border-box;
     
 }
 #coloured{
@@ -54,6 +55,7 @@ color: rgb(61, 129, 104);
 }
 #tophead{
     color: grey;
+    letter-spacing: 3px;
     
 }
 #name{
@@ -67,6 +69,6 @@ color: rgb(61, 129, 104);
     color: grey;
     margin-bottom: 0;
     margin-top: 1.5rem;
-    padding-left: 4rem;
+    padding-left: 3rem;
 }
 
